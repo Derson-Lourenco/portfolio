@@ -609,6 +609,7 @@ body {
     font-size: 1.2rem;
   }
   .hero-image {
+    margin-top: 45px;
     max-width: 100%;
   }
   .about-image {
